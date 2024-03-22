@@ -1,7 +1,9 @@
 1.Download the GitHub Repository:
 
   2.Visit the GitHub repository containing the register and login code.
+
   3.Click on the "Code" button and select "Download ZIP".
+
   4.Extract the downloaded ZIP file to your local machine.
 
 Database Setup:
