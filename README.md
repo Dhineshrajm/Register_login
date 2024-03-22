@@ -6,12 +6,16 @@
 
 Database Setup:
   5.Open your preferred MySQL database management tool (such as phpMyAdmin or MySQL Workbench).
+
   6.Create a new database for the register and login system.
+
   7.Import the db.sql file from the downloaded repository into the newly created database. This file contains the necessary table structure for user registration and login.
+
   8.Responsiveness added in this project and sesion also handled
 
 Configure Database Connection:
   9.Locate the db.php file within the downloaded repository.
+
 10.Update the database connection details in this file to match your MySQL server configuration (hostname, username, password, and database name).
 
 ![image](https://github.com/Dhineshrajm/Register_login/assets/128464347/59081fb4-e6fe-48c9-82a0-52997e8eba7b)
