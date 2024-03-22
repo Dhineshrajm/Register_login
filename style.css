@@ -1,0 +1,38 @@
+/* Custom styles for login and registration pages */
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+.card {
+    border: none; /* Remove card border */
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Add box shadow */
+}
+
+.card-title {
+    color: #333; /* Card title color */
+    font-size: 24px; /* Card title font size */
+    margin-bottom: 20px; /* Bottom margin for the card title */
+}
+
+.form-control {
+    border: 1px solid #ccc; /* Input border color */
+    border-radius: 5px; /* Input border radius */
+    margin-bottom: 20px; /* Bottom margin for inputs */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Button background color */
+    border-color: #007bff; /* Button border color */
+    border-radius: 5px; /* Button border radius */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Button hover background color */
+    border-color: #0056b3; /* Button hover border color */
+}
+
+.link {
+    font-size: 14px; /* Link font size */
+}
